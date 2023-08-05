@@ -1,16 +1,3 @@
-# cart_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image2](https://github.com/adityavkrm/flutter_shoppingApp/assets/131863123/ab1778e4-cbff-4591-9576-b2c46d27bc12)
+![image3](https://github.com/adityavkrm/flutter_shoppingApp/assets/131863123/031f60ef-811c-4bf8-997b-9b5ad18b7193)
+![image4](https://github.com/adityavkrm/flutter_shoppingApp/assets/131863123/a770b0bf-f53b-4182-bae2-833d2c164c16)
